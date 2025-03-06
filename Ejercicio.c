@@ -1,13 +1,6 @@
 # Practica4-2025-2
-Diagramas de flujo
+//Diagramas de flujo
 //Ahmed Avila
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 #include <stdio.h>
 
